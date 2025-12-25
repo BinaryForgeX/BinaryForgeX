@@ -137,14 +137,14 @@
   <tr>
     <td align="center" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=BinaryForgeX&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" 
-        alt="BinaryForgeX GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=nishit-shivdasani&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" 
+        alt="ishit Shivdasani GitHub Stats"
         width="100%"
       />
     </td>
     <td align="center" width="50%">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryForgeX&layout=compact&theme=transparent&hide_border=false&langs_count=8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishit-shivdasani&layout=compact&theme=transparent&hide_border=false&langs_count=8"
         alt="Top Languages"
         width="100%"
       />
@@ -153,7 +153,7 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=BinaryForgeX&theme=transparent&hide_border=false" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=nishit-shivdasani&theme=transparent&hide_border=false" alt="GitHub Streak" />
   </a>
     </td>
   </tr>
